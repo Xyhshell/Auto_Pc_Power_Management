@@ -5,7 +5,6 @@
 @file:   rec_face.py
 @time:   2022/04/07 12:44:43
 """
-import os
 import time
 import cv2
 
