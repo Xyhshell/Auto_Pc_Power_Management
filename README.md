@@ -13,10 +13,10 @@ Auto_Pc_Power_Management / 基于opencv的自动电源管理
 ---
 
 # 22/04/10：部分文件说明
-> face_repson.py 主程序文件
-> rec_face.py 检测人脸文件
-> psshutdown.exe 处理睡眠，一般的电脑开始休眠后，与睡眠会冲突！
-> haarcascades 里面包含一个人脸识别数据
+>+ face_repson.py 主程序文件  
+>+ rec_face.py 检测人脸文件  
+>+ psshutdown.exe 处理睡眠，一般的电脑开始休眠后，与睡眠会冲突！  
+>+ haarcascades 里面包含一个人脸识别数据  
 
 ---
 2.制作思路与目前实现（在代码中也有相关注释！）
